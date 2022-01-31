@@ -1,0 +1,55 @@
+@import "null.css";
+
+
+
+.article-text span {
+    color: brown;
+}
+
+.menu-link.link {
+    color: blue;
+}
+
+.menu-item a {
+    color: chartreuse;
+}
+
+ul a {
+    color: green;
+}
+
+ .article-text.article-text2 {
+    color: crimson;  
+}
+
+
+/* .article-block-text .article-text {
+    color: cornflowerblue;
+} */
+
+
+
+.article-block-text .string {
+    color: pink;
+} 
+
+.article-text span {
+    color: green;
+} 
+
+
+[title="ИМЯ"] {
+    color: green;
+}
+
+[class*="__link"] {
+    color: blue;
+}
+
+.article-block-text > p > span {
+    color: blue
+}
+
+.content-info-link > p {
+    color: red;
+}
